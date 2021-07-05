@@ -2,8 +2,8 @@
 
 - 入门   
 
-  - [快速开始](/) 
-  - [多页文档](zh-cn/more-pages.md)  
+  - [快速开始](/android/) 
+  - [APT](/android/apt)  
   - [定制导航栏](zh-cn/custom-navbar.md)  
   -  [封面](zh-cn/cover.md)  
 
